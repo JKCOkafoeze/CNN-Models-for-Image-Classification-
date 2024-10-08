@@ -1,1 +1,5 @@
-# CNN-Models-for-Image-Classification-
+This report presents the development of a Convolutional Neural Network (CNN) model aimed at identifying flower species from images, using the tf_flowers dataset, which contains 3,670 color photographs of five flower species: daisies, dandelions, roses, sunflowers, and tulips. Various CNN models were tested, with the objective of achieving high accuracy through model tuning and optimization.
+
+Key steps in the project included selecting a suitable CNN architecture, tuning hyperparameters such as learning rate, batch size, kernel size, and the number of epochs, as well as applying pooling and normalization techniques to enhance model performance. Through iterative experimentation with different models, the highest recorded accuracy was 82%, achieved by increasing the number of epochs and adjusting key model parameters.
+
+The report concludes that CNNs are a powerful deep learning technique for image classification tasks, and the success of the best model demonstrates the potential for further improvements by optimizing parameters such as learning rate and training epochs. The research underscores the importance of experimenting with model architectures and hyperparameters to achieve optimal results in computer vision tasks like flower image classification.
